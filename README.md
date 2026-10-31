@@ -7,7 +7,7 @@ DSH 小游戏角：五子棋 / 2048 / 扫雷 / 坦克 / 象棋 / 国象 / 围棋
 
 **方式 A（推荐）**：把仓库地址丢给 DSH
 
-> 帮我把 https://github.com/你的名字/dsh-game-corner 装成插件
+> 帮我把 https://github.com/clockleft8/dsh-game-corner 装成插件
 
 **方式 B（手动）**
 
