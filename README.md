@@ -13,7 +13,7 @@ DSH 小游戏角：五子棋 / 2048 / 扫雷 / 坦克 / 象棋 / 国象 / 围棋
 
 ```bash
 cd ~/.dsh/profiles/<你的 profile>/node_modules
-git clone https://github.com/你的名字/dsh-game-corner.git
+git clone https://github.com/clockleft8/dsh-game-corner.git
 ```
 
 profile 的 `package.json` 加 `"dsh-game-corner": "file:./node_modules/dsh-game-corner"`，
